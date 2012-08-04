@@ -1,0 +1,8 @@
+[Desktop Entry]
+_Name=Vault
+_Comment=Vault application
+Categories=GNOME;Utility;
+Exec=vault
+Icon=vault
+Terminal=false
+Type=Application

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist gettext-domain="vault">
+  <schema id="net.launchpad.vault" path="/net/launchpad/vault/">
+    <key name="file-manager" type="s">
+      <default>'xdg-open'</default>
+    </key>
+    <key name="delete-folders" type="b">
+      <default>true</default>
+    </key>
+    <key name="info" type="s">
+      <default>''</default>
+    </key>
+  </schema>
+</schemalist>
